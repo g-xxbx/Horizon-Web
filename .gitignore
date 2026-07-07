@@ -58,6 +58,9 @@ logs/*.log
 # uv
 .uv/
 
+# Screenshots
+horizon_*.png
+
 # todo
 todo.txt
 .ruff_cache
